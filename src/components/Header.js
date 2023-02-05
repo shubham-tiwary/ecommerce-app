@@ -70,6 +70,14 @@ const Header = () => {
                   </p>
                   </Link>
                 </div>
+                <div>
+                  <Link to="/">
+                  <img src = "images/cart.svg" alt="cart" />
+                  <div className="d-flex flex-column">
+                    <span className="badge badge-warning">0</span>
+                  </div>
+                  </Link>
+                </div>
               </div>
             </div>
           </div>
