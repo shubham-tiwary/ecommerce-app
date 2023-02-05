@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink, Link } from "react-router-dom";
+import { BsSearch } from "react-icons/bs";
 const Header = () => {
   return (
     <>
@@ -36,7 +37,9 @@ const Header = () => {
               placeholder="Search Product Here..." 
               aria-label="Search Product Here..." 
               aria-describedby="basic-addon2" />
-              <span className="input-group-text" id="basic-addon2">@example.com</span>
+              <span className="input-group-text p-3" id="basic-addon2">
+                <BsSearch className="fs-6"></BsSearch>
+              </span>
               </div>
             </div>
             <div className="col-5"></div>
