@@ -25,24 +25,53 @@ const Header = () => {
       </header>
       <header className="header-upper py-3">
         <div className="container-xxl">
-          <div className="row">
+          <div className="row align-items-center">
             <div className="col-2">
               <h2>
                 <Link to="/" className="text-white">Dev</Link>
               </h2>
             </div>
             <div className="col-5">
-              <div className="input-group mb-3">
+              <div className="input-group">
               <input type="text" className="form-control" 
               placeholder="Search Product Here..." 
               aria-label="Search Product Here..." 
               aria-describedby="basic-addon2" />
               <span className="input-group-text p-3" id="basic-addon2">
+                {/* p-3 -> padding 3 */}
                 <BsSearch className="fs-6"></BsSearch>
+                {/* fs-6 -> font size 6 */}
               </span>
               </div>
             </div>
-            <div className="col-5"></div>
+            <div className="col-5">
+              <div className="header-upper-links d-flex align-items-center justify-content-between">
+                <div>
+                  <Link to="/">
+                  <img src = "images/compare.svg" alt="compare" />
+                  <p>
+                    Compare <br /> Products
+                  </p>
+                  </Link>
+                </div>
+                <div>
+                  <Link to="/">
+                  <img src = "images/wishlist.svg" alt="wishlist" />
+                  <p>
+                    Favourite <br /> Wishlist
+                  </p>
+                  </Link>
+                </div>
+                <div>
+                  <Link to="/">
+                  <img src = "images/user.svg" alt="wishlist" />
+                  <p>
+                    Login <br /> My Account
+                  </p>
+                  </Link>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </header>
