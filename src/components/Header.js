@@ -30,7 +30,15 @@ const Header = () => {
                 <Link to="/" className="text-white">Dev</Link>
               </h2>
             </div>
-            <div className="col-5"></div>
+            <div className="col-5">
+              <div className="input-group mb-3">
+              <input type="text" className="form-control" 
+              placeholder="Search Product Here..." 
+              aria-label="Search Product Here..." 
+              aria-describedby="basic-addon2" />
+              <span className="input-group-text" id="basic-addon2">@example.com</span>
+              </div>
+            </div>
             <div className="col-5"></div>
           </div>
         </div>
