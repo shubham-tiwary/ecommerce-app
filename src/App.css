@@ -85,3 +85,12 @@ a{
   color: var(--color-febd69) !important;
 }
 /* Header Part Ends Here */
+
+
+/* Footer Part */
+
+footer{
+  background-color: var(--color-232f3e);
+}
+
+/* Footer Part Ends Here */
