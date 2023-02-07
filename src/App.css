@@ -41,7 +41,7 @@ a{
   background-color: var(--color-131921);
 }
 
-.header-upper.input-group-text {
+.header-upper .input-group-text {
   background-color: var(--color-febd69);
 }
 
@@ -82,5 +82,6 @@ a{
 
 .header-bottom .dropdown-item:hover{
   background-color: transparent;
+  color: var(--color-febd69) !important;
 }
 /* Header Part Ends Here */
