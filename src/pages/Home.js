@@ -13,7 +13,7 @@ const Home = () => {
                 <h4>SUPERCHARGED FOR PROS.</h4>
                 <h5>iPad S13+ Pro.</h5>
                 <p>From ₹59999.00 or ₹5999/mo. </p>
-                <Link to="/">BUY NOW</Link>
+                <Link to="/" className="button">BUY NOW</Link>
               </div>
             </div>
           </div>
