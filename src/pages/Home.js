@@ -58,17 +58,22 @@ const Home = () => {
       </div>
     </section>
 
-    <section className="home-wrapper-1 py-5">
-      <div className="home-wrapper-2 py-5">
+    <section className="home-wrapper-2 py-5">
         <div className="container-xxl">
           <div className="row">
             <div className="col-12">
-              
+              <div className="services d-flex align-items-center justify-content-between">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+
+              </div>
+
             </div>
           </div>
         </div>
-      </div>
-
     </section>
 
   </>
