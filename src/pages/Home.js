@@ -7,7 +7,7 @@ const Home = () => {
       <div className="container-xxl">
         <div className="row">
           <div className="col-6">
-            <div className="main-banner p-3 position-relative">
+            <div className="main-banner position-relative">
               <img src="images/main-banner-1.jpg" className="img-fluid rounded-3" alt="main banner" />
               <div className="main-banner-content position-absolute">
                 <h4>SUPERCHARGED FOR PROS.</h4>
@@ -19,36 +19,36 @@ const Home = () => {
           </div>
           <div className="col-6">
             <div className="d-flex flex-wrap gap-10 justify-content-between align-items-center">
-            <div className="small-banner p-3 position-relative">
+            <div className="small-banner position-relative">
               <img src="images/catbanner-01.jpg" className="img-fluid rounded-3" alt="main banner" />
               <div className="small-banner-content position-absolute">
-                <h4>NEW ARRIVAL</h4>
-                <h5>iPad S13+ Pro.</h5>
+                <h4>BEST SALE</h4>
+                <h5>Laptops Max</h5>
                 <p>From ₹59999.00 <br />or ₹5999/mo. </p>
               </div>
             </div>
-            <div className="small-banner p-3 position-relative">
+            <div className="small-banner position-relative">
               <img src="images/catbanner-02.jpg" className="img-fluid rounded-3" alt="main banner" />
               <div className="small-banner-content position-absolute">
-                <h4>NEW ARRRIVAL</h4>
-                <h5>iPad S13+ Pro.</h5>
+                <h4>NEW ARRIVAL</h4>
+                <h5>Buy iPad Air</h5>
                 <p>From ₹59999.00 <br />or ₹5999/mo. </p>
               </div>
             </div>
-            <div className="small-banner p-3 position-relative">
+            <div className="small-banner position-relative">
               <img src="images/catbanner-03.jpg" className="img-fluid rounded-3" alt="main banner" />
               <div className="small-banner-content position-absolute">
-                <h4>SUPERCHARGED FOR PROS.</h4>
-                <h5>iPad S13+ Pro.</h5>
-                <p>From ₹59999.00 <br />or ₹5999/mo. </p>
+                <h4>15% OFF</h4>
+                <h5>Smartwatch 7</h5>
+                <p>Shop the latest band<br />styles & colors.</p>
               </div>
             </div>
-            <div className="small-banner p-3 position-relative">
+            <div className="small-banner position-relative">
               <img src="images/catbanner-04.jpg" className="img-fluid rounded-3" alt="main banner" />
               <div className="small-banner-content position-absolute">
-                <h4>SUPERCHARGED FOR PROS.</h4>
-                <h5>iPad S13+ Pro.</h5>
-                <p>From ₹59999.00 <br />or ₹5999/mo. </p>
+                <h4>FREE ENGRAVING</h4>
+                <h5>Airpods Max</h5>
+                <p>High Fidelity playback &<br />ultra-low distortion</p>
               </div>
             </div>
             </div>
