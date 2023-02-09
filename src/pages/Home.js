@@ -3,6 +3,7 @@ import {Link} from "react-router-dom";
 
 const Home = () => {
   return (<>
+  
     <section className="home-wrapper-1 py-5">
       <div className="container-xxl">
         <div className="row">
@@ -56,6 +57,20 @@ const Home = () => {
         </div>
       </div>
     </section>
+
+    <section className="home-wrapper-1 py-5">
+      <div className="home-wrapper-2 py-5">
+        <div className="container-xxl">
+          <div className="row">
+            <div className="col-12">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
   </>
   )
 }
