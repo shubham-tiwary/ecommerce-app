@@ -24,7 +24,7 @@ const Home = () => {
               <div className="small-banner-content position-absolute">
                 <h4>NEW ARRIVAL</h4>
                 <h5>iPad S13+ Pro.</h5>
-                <p>From ₹59999.00 or ₹5999/mo. </p>
+                <p>From ₹59999.00 <br />or ₹5999/mo. </p>
               </div>
             </div>
             <div className="small-banner p-3 position-relative">
@@ -32,7 +32,7 @@ const Home = () => {
               <div className="small-banner-content position-absolute">
                 <h4>NEW ARRRIVAL</h4>
                 <h5>iPad S13+ Pro.</h5>
-                <p>From ₹59999.00 or ₹5999/mo. </p>
+                <p>From ₹59999.00 <br />or ₹5999/mo. </p>
               </div>
             </div>
             <div className="small-banner p-3 position-relative">
@@ -40,7 +40,7 @@ const Home = () => {
               <div className="small-banner-content position-absolute">
                 <h4>SUPERCHARGED FOR PROS.</h4>
                 <h5>iPad S13+ Pro.</h5>
-                <p>From ₹59999.00 or ₹5999/mo. </p>
+                <p>From ₹59999.00 <br />or ₹5999/mo. </p>
               </div>
             </div>
             <div className="small-banner p-3 position-relative">
@@ -48,7 +48,7 @@ const Home = () => {
               <div className="small-banner-content position-absolute">
                 <h4>SUPERCHARGED FOR PROS.</h4>
                 <h5>iPad S13+ Pro.</h5>
-                <p>From ₹59999.00 or ₹5999/mo. </p>
+                <p>From ₹59999.00 <br />or ₹5999/mo. </p>
               </div>
             </div>
             </div>
