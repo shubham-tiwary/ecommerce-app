@@ -63,11 +63,41 @@ const Home = () => {
           <div className="row">
             <div className="col-12">
               <div className="services d-flex align-items-center justify-content-between">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
+                <div>
+                  <img src="" alt="services" />
+                    <div>
+                      <h6></h6>
+                      <p></p>
+                    </div>
+                </div>
+                <div>
+                  <img src="" alt="services" />
+                    <div>
+                      <h6></h6>
+                      <p></p>
+                    </div>
+                </div>
+                <div>
+                  <img src="" alt="services" />
+                    <div>
+                      <h6></h6>
+                      <p></p>
+                    </div>
+                </div>
+                <div>
+                  <img src="" alt="services" />
+                    <div>
+                      <h6></h6>
+                      <p></p>
+                    </div>
+                </div>
+                <div>
+                  <img src="" alt="services" />
+                    <div>
+                      <h6></h6>
+                      <p></p>
+                    </div>
+                </div>
 
               </div>
 
