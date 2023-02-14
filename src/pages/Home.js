@@ -66,8 +66,8 @@ const Home = () => {
                 <div>
                   <img src="images/service.png" alt="services" />
                     <div>
-                      <h6></h6>
-                      <p></p>
+                      <h6>Free Delivery</h6>
+                      <p>On orders above ₹599</p>
                     </div>
                 </div>
                 <div>
