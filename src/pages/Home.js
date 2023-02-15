@@ -73,29 +73,29 @@ const Home = () => {
                 <div>
                   <img src="images/service-02.png" alt="services" />
                     <div>
-                      <h6></h6>
-                      <p></p>
+                      <h6>Daily Surprise Offers</h6>
+                      <p>Upto 60% off</p>
                     </div>
                 </div>
                 <div>
                   <img src="images/service-03.png" alt="services" />
                     <div>
-                      <h6></h6>
-                      <p></p>
+                      <h6>24x7 Support</h6>
+                      <p>Shop with an expert</p>
                     </div>
                 </div>
                 <div>
                   <img src="images/service-04.png" alt="services" />
                     <div>
-                      <h6></h6>
-                      <p></p>
+                      <h6>Affordable Prices</h6>
+                      <p>Get Factory Default Prices</p>
                     </div>
                 </div>
                 <div>
                   <img src="images/service-05.png" alt="services" />
                     <div>
-                      <h6></h6>
-                      <p></p>
+                      <h6>Secure Payments</h6>
+                      <p>100% Protected Payments</p>
                     </div>
                 </div>
 
