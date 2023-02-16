@@ -63,35 +63,35 @@ const Home = () => {
           <div className="row">
             <div className="col-12">
               <div className="services d-flex align-items-center justify-content-between">
-                <div>
+                <div className="d-flex align-items-center gap-10">
                   <img src="images/service.png" alt="services" />
                     <div>
                       <h6>Free Delivery</h6>
                       <p>On orders above ₹599</p>
                     </div>
                 </div>
-                <div>
+                <div className="d-flex align-items-center gap-10">
                   <img src="images/service-02.png" alt="services" />
                     <div>
                       <h6>Daily Surprise Offers</h6>
                       <p>Upto 60% off</p>
                     </div>
                 </div>
-                <div>
+                <div className="d-flex align-items-center gap-10">
                   <img src="images/service-03.png" alt="services" />
                     <div>
                       <h6>24x7 Support</h6>
                       <p>Shop with an expert</p>
                     </div>
                 </div>
-                <div>
+                <div className="d-flex align-items-center gap-10">
                   <img src="images/service-04.png" alt="services" />
                     <div>
                       <h6>Affordable Prices</h6>
                       <p>Get Factory Default Prices</p>
                     </div>
                 </div>
-                <div>
+                <div className="d-flex align-items-center gap-10">
                   <img src="images/service-05.png" alt="services" />
                     <div>
                       <h6>Secure Payments</h6>
