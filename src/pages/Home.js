@@ -67,35 +67,35 @@ const Home = () => {
                   <img src="images/service.png" alt="services" />
                     <div>
                       <h6>Free Delivery</h6>
-                      <p classNmame="mb-0">On orders above ₹599</p>
+                      <p className="mb-0">On orders above ₹599</p>
                     </div>
                 </div>
                 <div className="d-flex align-items-center gap-10">
                   <img src="images/service-02.png" alt="services" />
                     <div>
                       <h6>Daily Surprise Offers</h6>
-                      <p classNmame="mb-0">Upto 60% off</p>
+                      <p className="mb-0">Upto 60% off</p>
                     </div>
                 </div>
                 <div className="d-flex align-items-center gap-10">
                   <img src="images/service-03.png" alt="services" />
                     <div>
                       <h6>24x7 Support</h6>
-                      <p classNmame="mb-0">Shop with an expert</p>
+                      <p className="mb-0">Shop with an expert</p>
                     </div>
                 </div>
                 <div className="d-flex align-items-center gap-10">
                   <img src="images/service-04.png" alt="services" />
                     <div>
                       <h6>Affordable Prices</h6>
-                      <p classNmame="mb-0">Get Factory Default Prices</p>
+                      <p className="mb-0">Get Factory Default Prices</p>
                     </div>
                 </div>
                 <div className="d-flex align-items-center gap-10">
                   <img src="images/service-05.png" alt="services" />
                     <div>
                       <h6>Secure Payments</h6>
-                      <p classNmame="mb-0">100% Protected Payments</p>
+                      <p className="mb-0">100% Protected Payments</p>
                     </div>
                 </div>
 
