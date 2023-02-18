@@ -110,8 +110,35 @@ const Home = () => {
       <div className="container-xxl">
         <div className="row">
           <div classname="col-12">
-            <div className="categories">
-              
+            <div className="categories d-flex justify-content-between align-items-center">
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Cameras</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/camera.jpg" alt="camera"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Cameras</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/camera.jpg" alt="camera"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Cameras</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/camera.jpg" alt="camera"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Cameras</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/camera.jpg" alt="camera"></img>
+              </div>
             </div>
           </div>
         </div>
