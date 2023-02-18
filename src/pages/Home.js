@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
+import Marquee from "react-fast-marquee";
 
 const Home = () => {
   return (<>
@@ -171,6 +172,10 @@ const Home = () => {
           </div>
         </div>
       </div>
+    </section>
+
+    <section className="marquee-wrapper py-5">
+
     </section>
 
   </>
