@@ -106,6 +106,18 @@ const Home = () => {
         </div>
     </section>
 
+    <section className="home-wrappper-2 py-5">
+      <div className="container-xxl">
+        <div className="row">
+          <div classname="col-12">
+            <div className="categories">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
   </>
   )
 }
