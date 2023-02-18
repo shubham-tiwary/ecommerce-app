@@ -110,13 +110,34 @@ const Home = () => {
       <div className="container-xxl">
         <div className="row">
           <div classname="col-12">
-            <div className="categories d-flex justify-content-between align-items-center">
+            <div className="categories d-flex flex-wrap justify-content-between align-items-center">
               <div className="gap-30 d-flex align-items-center">
                 <div>
                   <h6>Cameras</h6>
                   <p>10 Items</p>
                 </div>
                 <img src="images/camera.jpg" alt="camera"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Cameras</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/camera.jpg" alt="camera"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Smart TV</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/tv.jpg" alt="tv"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Smart Wearbles</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/headphone.jpg" alt="headphone"></img>
               </div>
               <div className="gap-30 d-flex align-items-center">
                 <div>
@@ -134,10 +155,17 @@ const Home = () => {
               </div>
               <div className="gap-30 d-flex align-items-center">
                 <div>
-                  <h6>Cameras</h6>
+                  <h6>Smart TV</h6>
                   <p>10 Items</p>
                 </div>
-                <img src="images/camera.jpg" alt="camera"></img>
+                <img src="images/tv.jpg" alt="tv"></img>
+              </div>
+              <div className="gap-30 d-flex align-items-center">
+                <div>
+                  <h6>Smart Wearbles</h6>
+                  <p>10 Items</p>
+                </div>
+                <img src="images/headphone.jpg" alt="headphone"></img>
               </div>
             </div>
           </div>
