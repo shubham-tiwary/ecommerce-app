@@ -175,7 +175,17 @@ const Home = () => {
     </section>
 
     <section className="marquee-wrapper py-5">
-
+      <div className="container-xxl">
+        <div className="row">
+          <div className="col-12">
+            <div className="marquee-inner-wrapper card-wrapper">
+              <Marquee>
+                I can be a React component.
+              </Marquee>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
   </>
