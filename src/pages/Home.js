@@ -211,6 +211,10 @@ const Home = () => {
       </div>
     </section>
 
+    <section className="blog-wrapper">
+      
+    </section>
+
   </>
   )
 }
