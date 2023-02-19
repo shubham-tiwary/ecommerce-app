@@ -211,8 +211,8 @@ const Home = () => {
       </div>
     </section>
 
-    <section className="blog-wrapper">
-      
+    <section className="blog-wrapper py-5 home-wrapper-2">
+
     </section>
 
   </>
