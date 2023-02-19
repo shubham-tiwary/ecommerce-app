@@ -19,7 +19,7 @@ body{
   background-color: white;
   box-shadow: 0 0 10px #0000001a;
   padding: 15px;
-  border-radius: 5px;
+  border-radius: 15px;
 }
 a{
   text-decoration: none;
@@ -212,7 +212,7 @@ footer .input-group-text {
   background-color: white;
   box-shadow: 0 0 10px #0000001a;
   padding: 15px;
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
 .categories > div{
