@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const BlogCard = () => {
   return (
@@ -9,6 +10,9 @@ const BlogCard = () => {
             </div>
             <div className="blog-content">
               <p className="date"></p>
+              <h5 className="title"></h5>
+              <p className="description"></p>
+              <Link>Read More</Link>
             </div>
         </div>
     </div>
