@@ -10,7 +10,7 @@ const BlogCard = () => {
             </div>
             <div className="blog-content">
               <p className="date"></p>
-              <h5 className="title"></h5>
+              <h5 className="title">A beautiful Sunday Morning Renaissance</h5>
               <p className="description"></p>
               <Link to="/" className="button">Read More</Link>
             </div>
