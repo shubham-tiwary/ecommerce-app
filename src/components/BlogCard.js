@@ -12,7 +12,7 @@ const BlogCard = () => {
               <p className="date"></p>
               <h5 className="title"></h5>
               <p className="description"></p>
-              <Link>Read More</Link>
+              <Link to="/" className="button">Read More</Link>
             </div>
         </div>
     </div>
