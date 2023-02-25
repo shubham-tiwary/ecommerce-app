@@ -9,7 +9,7 @@ const BlogCard = () => {
                 <img src="images/blog-1.jpg" className="img-fluid" alt="blog" />
             </div>
             <div className="blog-content">
-              <p className="date"></p>
+              <p className="date">25 February, 2023</p>
               <h5 className="title">A beautiful Sunday Morning Renaissance</h5>
               <p className="description"></p>
               <Link to="/" className="button">Read More</Link>
