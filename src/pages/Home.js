@@ -215,7 +215,10 @@ const Home = () => {
     <section className="blog-wrapper py-5 home-wrapper-2">
       <div className="container-xxl">
         <div className="row">
-          <BlogCard></BlogCard>
+        <BlogCard />
+        <BlogCard />
+        <BlogCard />
+        <BlogCard />
         </div>
       </div>
     </section>
