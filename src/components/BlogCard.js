@@ -10,8 +10,14 @@ const BlogCard = () => {
             </div>
             <div className="blog-content">
               <p className="date">25 February, 2023</p>
-              <h5 className="title">A beautiful Sunday Morning Renaissance</h5>
-              <p className="desc">Lorem Ipsum Text</p>
+              <h5 className="title">
+                <h2 class="article-card__title 123" id="Article-558559887529">
+                A beautiful Sunday Morning Renaissance
+                </h2>
+              </h5>
+              <p className="desc">
+              Lorem Ipsum Text
+              </p>
               <Link to="/" className="button">Read More</Link>
             </div>
         </div>
@@ -19,4 +25,4 @@ const BlogCard = () => {
   )
 }
 
-export default BlogCard
+export default BlogCard;
