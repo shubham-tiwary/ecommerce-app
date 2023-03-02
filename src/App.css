@@ -13,6 +13,13 @@
   --color-ededed: #ededed;
   --color-777777: #777777;
 }
+
+.section-heading{
+  font-size: 26px;
+  line-height: 32px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
 body{
   font-family: "Rubik", sans-serif;
 }
