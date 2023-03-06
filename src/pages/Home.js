@@ -2,6 +2,7 @@ import React from 'react';
 import {Link} from "react-router-dom";
 import Marquee from "react-fast-marquee";
 import BlogCard from '../components/BlogCard';
+import ProductCard from '../components/ProductCard';
 
 const Home = () => {
   return (<>
@@ -220,7 +221,10 @@ const Home = () => {
             Featured Collection
           </h3>
         </div>
-        
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
         </div>
       </div>
     </section>
