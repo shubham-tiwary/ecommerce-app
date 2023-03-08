@@ -5,7 +5,7 @@ const ProductCard = () => {
     <div className="col-3">
         <div className="product-card">
           <div className="product-image">
-            <img src="images/watch.jpg" alt="product image"></img>
+            <img src="images/watch.jpg" alt="product image" />
           </div>
         </div>
     </div>
