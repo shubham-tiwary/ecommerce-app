@@ -290,3 +290,12 @@ footer .input-group-text {
   color: var(--color-777777);
 }
 /* Blog Part Ends */
+
+/* Product Card */
+
+.product-card{
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+}
+/* Product Card Ends */
