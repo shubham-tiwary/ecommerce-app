@@ -7,9 +7,14 @@ const ProductCard = () => {
           <div className="product-image">
             <img src="images/watch.jpg" alt="product image" />
           </div>
+          <div className="product-details">
+            <h1>
+              
+            </h1>
+          </div>
         </div>
     </div>
   )
 }
 
-export default ProductCard
+export default ProductCard;
