@@ -298,4 +298,9 @@ footer .input-group-text {
   background-color: white;
   border-radius: 10px;
 }
+
+.product-card .product-details h6{
+  color: var(--color-bf4800);
+  
+}
 /* Product Card Ends */
