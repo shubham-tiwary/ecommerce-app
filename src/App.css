@@ -301,6 +301,6 @@ footer .input-group-text {
 
 .product-card .product-details h6{
   color: var(--color-bf4800);
-  
+  font-size: 13px;
 }
 /* Product Card Ends */
