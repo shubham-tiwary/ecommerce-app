@@ -303,4 +303,8 @@ footer .input-group-text {
   color: var(--color-bf4800);
   font-size: 13px;
 }
+
+.product-card .product-details h5{
+  font-size: 15px;
+}
 /* Product Card Ends */

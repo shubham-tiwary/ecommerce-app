@@ -9,7 +9,9 @@ const ProductCard = () => {
           </div>
           <div className="product-details">
             <h6 className="brand">Havells</h6>
-            <h5 className="product-title"></h5>
+            <h5 className="product-title">
+              Multi-colored kids headphones for students
+            </h5>
           </div>
         </div>
     </div>
