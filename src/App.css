@@ -306,5 +306,6 @@ footer .input-group-text {
 
 .product-card .product-details h5{
   font-size: 15px;
+  color: var(--color-131921);
 }
 /* Product Card Ends */
