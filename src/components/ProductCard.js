@@ -12,6 +12,7 @@ const ProductCard = () => {
             <h5 className="product-title">
               Multi-colored kids headphones for students
             </h5>
+            <p className="price">₹499</p>
           </div>
         </div>
     </div>
