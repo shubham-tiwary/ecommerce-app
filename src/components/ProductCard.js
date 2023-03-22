@@ -13,6 +13,7 @@ const ProductCard = () => {
             <h5 className="product-title">
               Multi-colored kids headphones for students
             </h5>
+            <ReactStars count={5} size={24} activeColor="#ffd700" />
             <p className="price">₹499</p>
           </div>
         </div>
