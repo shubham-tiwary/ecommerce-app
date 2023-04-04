@@ -7,13 +7,13 @@ const ProductCard = () => {
         <div className="product-card">
           <div className="product-image">
             <img src="images/watch.jpg" alt="product image" />
-          </div>
+          </div> 
           <div className="product-details">
             <h6 className="brand">Havells</h6>
             <h5 className="product-title">
               Multi-colored kids headphones for students
             </h5>
-            <ReactStars count={5} size={24} value="4" edit="false" activeColor="#ffd700" />
+            <ReactStars count={5} size={24} value="4" edit={false} activeColor="#ffd700" />
             <p className="price">₹499</p>
           </div>
         </div>
