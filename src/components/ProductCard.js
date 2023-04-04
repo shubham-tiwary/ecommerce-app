@@ -4,7 +4,7 @@ import ReactStars from "react-rating-stars-component";
 const ProductCard = () => {
   return (
     <div className="col-3">
-        <div className="product-card">
+        <div className="product-card position-relative">
           <div className="product-image">
             <img src="images/watch.jpg" alt="product image" />
           </div> 
