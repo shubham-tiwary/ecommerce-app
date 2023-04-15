@@ -16,7 +16,9 @@ const ProductCard = () => {
             <ReactStars count={5} size={24} value="4" edit={false} activeColor="#ffd700" />
             <p className="price">₹499</p>
           </div>
-          <div className="action-bar position-absolute"> </div>
+          <div className="action-bar position-absolute">
+            <div className="d-flex flex-column"></div>
+          </div>
         </div>
     </div>
   )
