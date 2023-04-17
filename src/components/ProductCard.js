@@ -17,7 +17,11 @@ const ProductCard = () => {
             <p className="price">₹499</p>
           </div>
           <div className="action-bar position-absolute">
-            <div className="d-flex flex-column"></div>
+            <div className="d-flex flex-column">
+              <Link to="/">
+                <img src="images/add-car.svg"></img>
+              </Link>
+            </div>
           </div>
         </div>
     </div>
