@@ -19,7 +19,7 @@ const ProductCard = () => {
           <div className="action-bar position-absolute">
             <div className="d-flex flex-column">
               <Link to="/">
-                <img src="images/add-car.svg"></img>
+                <img src="images/add-car.svg" alt=""></img>
               </Link>
             </div>
           </div>
