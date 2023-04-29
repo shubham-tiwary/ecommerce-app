@@ -20,10 +20,10 @@ const ProductCard = () => {
           <div className="action-bar position-absolute">
             <div className="d-flex flex-column">
             <Link to="/">
-                <img src="images/prodcompare.svg" alt="addcart"></img>
+                <img src="images/prodcompare.svg" alt="compare"></img>
               </Link>
               <Link to="/">
-                <img src="images/view.svg" alt="addcart"></img>
+                <img src="images/view.svg" alt="view"></img>
               </Link>
               <Link to="/">
                 <img src="images/add-cart.svg" alt="addcart"></img>
