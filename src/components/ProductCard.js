@@ -18,7 +18,7 @@ const ProductCard = () => {
             <p className="price">₹499</p>
           </div>
           <div className="action-bar position-absolute">
-            <div className="d-flex flex-column">
+            <div className="d-flex flex-column gap-15">
             <Link to="/">
                 <img src="images/prodcompare.svg" alt="compare"></img>
               </Link>
